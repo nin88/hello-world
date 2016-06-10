@@ -1,2 +1,2 @@
 # hello-world
-Just another repository, to learn stuff
+So her should stand something usefull but it doesn't
